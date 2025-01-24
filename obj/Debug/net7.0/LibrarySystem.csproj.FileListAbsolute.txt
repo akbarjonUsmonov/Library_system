@@ -1,0 +1,14 @@
+D:\console_apps\LibrarySystem\bin\Debug\net7.0\LibrarySystem.exe
+D:\console_apps\LibrarySystem\bin\Debug\net7.0\LibrarySystem.deps.json
+D:\console_apps\LibrarySystem\bin\Debug\net7.0\LibrarySystem.runtimeconfig.json
+D:\console_apps\LibrarySystem\bin\Debug\net7.0\LibrarySystem.dll
+D:\console_apps\LibrarySystem\bin\Debug\net7.0\LibrarySystem.pdb
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.AssemblyInfo.cs
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.dll
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\refint\LibrarySystem.dll
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.pdb
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\LibrarySystem.genruntimeconfig.cache
+D:\console_apps\LibrarySystem\obj\Debug\net7.0\ref\LibrarySystem.dll
