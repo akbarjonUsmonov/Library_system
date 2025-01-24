@@ -43,5 +43,3 @@
 
 ### The Core Team
 Akbar Usmonov
-
-# Library_system
